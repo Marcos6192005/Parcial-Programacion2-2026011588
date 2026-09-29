@@ -1,0 +1,14 @@
+*.class
+out/
+bin/
+target/
+build/
+*.jar
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+nbproject/
+.DS_Store
